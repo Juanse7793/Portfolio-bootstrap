@@ -22,3 +22,17 @@
 .btn {
     align-self: center;
 }
+
+.form-p {
+    font-size: 30px;
+    color: #172b4d;
+}
+
+.firstContainer {
+    background-image: url(images/Group.png), url(images/middle.png), url(images/Frame.png);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position-x: left, center, right;
+    background-position-y:  bottom, bottom, bottom;
+    transform: scale(0.98);
+    margin: 50px 0;
+}
