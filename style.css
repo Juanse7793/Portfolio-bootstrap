@@ -1,0 +1,24 @@
+.fab {
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.welcome {
+    height: 100vh;
+    background-image: url(images/Header.png);
+    background-repeat: no-repeat;
+    background-size: 100% 80%;
+    background-position-y: center;
+}
+
+.column {
+    gap: 30px;
+}
+
+.container {
+    margin-top: 8rem;
+}
+
+.btn {
+    align-self: center;
+}
