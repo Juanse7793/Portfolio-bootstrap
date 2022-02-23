@@ -32,6 +32,7 @@ https://juanse7793.github.io/Portfolio-bootstrap/
 👤 **Author2**
 
 - GitHub: [@fed1k](https://github.com/Juanse7793)
+- LinkedIn: [@fed1k](https://www.linkedin.com/in/firdavs-allamurotov-12b60a226/)
 
 
 
