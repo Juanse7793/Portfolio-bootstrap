@@ -28,11 +28,23 @@
     color: #172b4d;
 }
 
-.firstContainer {
+.out {
     background-image: url(images/Group.png), url(images/middle.png), url(images/Frame.png);
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position-x: left, center, right;
+    background-position-x: left, 200px, right;
     background-position-y:  bottom, bottom, bottom;
+    background-size: 10%, 10%, 10%;
+}
+
+.firstContainer {
     transform: scale(0.98);
     margin: 50px 0;
+}
+
+.images {
+    background-image: url(images/illustration-about-me-2-desktop.svg), url(images/illustration\ about\ me\ desktop.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position-x: left, right;
+    background-position-y: bottom, top;
+    background-size: 18%, 80%;
 }
